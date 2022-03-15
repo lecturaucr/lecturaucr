@@ -1,1 +1,1 @@
-print(1+2)
+sumar <- function(x, y) {x+y}
